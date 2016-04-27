@@ -57,6 +57,5 @@ class Customer {
         }
         return result;
     }
-
 }
     
